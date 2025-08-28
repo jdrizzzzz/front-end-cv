@@ -82,9 +82,6 @@ cv/
 │   └── styles.css        # Custom CSS to complement Bootstrap
 ├── data/
 │   └── resume.json       # Resume data structure (JSON format)
-├── accordion/            # Original accordion lab example
-├── tabs/                 # Original tabs lab example
-└── flipAndDropDown/      # Original flip and dropdown lab examples
 ```
 
 ## 💡 Data Structure
@@ -161,5 +158,6 @@ Modify `css/styles.css` to customize:
 - **Progressive enhancement**: Works even if JavaScript is disabled (basic structure remains)
 
 ---
+
 
 **Built with ❤️ using Vanilla JavaScript and Bootstrap 5**
