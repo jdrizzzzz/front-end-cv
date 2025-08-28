@@ -1,0 +1,96 @@
+{
+  "header": {
+    "name": "Joseph Driz",
+    "title": "IT Operations Specialist",
+    "profileImage": "Joseph.jpg",
+    "contact": {
+      "email": "Josephdriz@rocketmail.com",
+      "phone": "514 605 6987",
+      "linkedin": "https://www.linkedin.com/in/jdriz/",
+      "portfolio": "https://realbyfake.com/"
+    }
+  },
+  "summary": "Highly skilled troubleshooter adept at ensuring customer satisfaction. Possesses extensive knowledge in resolving computer hardware and software issues, utilizing a comprehensive understanding of standard operating systems, networking protocols, and technical support procedures. Demonstrates a proven track record of efficiently identifying and resolving complex technical problems.",
+  "skills": {
+    "Technical Skills": [
+      "Programming Languages",
+      "Algorithms & Data Structures",
+      "Debugging & Testing",
+      "Databases",
+      "Web Development"
+    ],
+    "System Administration": [
+      "Linux Systems",
+      "Windows Administration",
+      "Mac OS Management",
+      "Network Configuration"
+    ],
+    "Hardware & Infrastructure": [
+      "Wireless Router Configuration",
+      "Hardware Maintenance",
+      "System Deployments",
+      "Remote Support"
+    ]
+  },
+  "experience": [
+    {
+      "title": "IT Specialist",
+      "company": "Healthcare Network Solutions",
+      "period": "2022 - Present",
+      "responsibilities": [
+        "Conducted frequent U.S. travel to assess, install, and troubleshoot wireless routers and extenders in nursing homes; performed site evaluations and created detailed IT analysis reports.",
+        "Collaborated with hospital network specialists and internal teams to resolve technical issues, support pilot project launches, and ensure long-term network reliability.",
+        "Maintained clear documentation of IT setups and site visits; demonstrated strong independent work ethic, teamwork, and problem-solving skills in fast-paced environments."
+      ]
+    },
+    {
+      "title": "QA Tester",
+      "company": "Software Development Firm",
+      "period": "2021 - 2022",
+      "responsibilities": [
+        "Developed test plans and executed test cases, identifying 100+ bugs per release cycle.",
+        "Documented and reported defects for effective developer communication.",
+        "Collaborated with developers to resolve high-priority issues."
+      ]
+    },
+    {
+      "title": "IT Operations",
+      "company": "VFX Studio",
+      "period": "2020 - 2021",
+      "responsibilities": [
+        "Managed Linux, Windows, and Mac systems, including maintenance, upgrades, and deployments.",
+        "Conducted preventive hardware maintenance, reducing failures and improving support efficiency.",
+        "Tested new software and hardware before deployment and provided remote technical support."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Vanier College",
+      "program": "Software Development Course",
+      "period": "2025-2026",
+      "status": "In Progress"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Interactive Portfolio Components",
+      "description": "Developed interactive web components including accordion, tabs, and flip animations using vanilla JavaScript",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Network Infrastructure Analysis",
+      "description": "Created comprehensive analysis reports for healthcare network installations and optimizations",
+      "technologies": [
+        "Network Analysis",
+        "Documentation",
+        "Site Assessment"
+      ]
+    }
+  ]
+}
