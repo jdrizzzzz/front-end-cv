@@ -1,4 +1,4 @@
-# Joseph Driz - Dynamic Resume
+# Dynamic Resume
 
 A single-page dynamic resume built with vanilla JavaScript and Bootstrap 5, featuring data-driven rendering and interactive components.
 
@@ -137,5 +137,6 @@ Modify `css/styles.css` to customize:
 - Safari
 - Edge
 - Mobile browsers (iOS Safari, Chrome Mobile)
+
 
 
