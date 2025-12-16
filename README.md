@@ -2,7 +2,7 @@
 
 A single-page dynamic resume built with vanilla JavaScript and Bootstrap 5, featuring data-driven rendering and interactive components.
 
-## 🚀 Live Features
+## Live Features
 
 ### Lab Feature Integration
 **Accordion Component** - Integrated in the **Professional Experience** section
@@ -28,7 +28,7 @@ A single-page dynamic resume built with vanilla JavaScript and Bootstrap 5, feat
 - **Bootstrap 5.3.0**: Layout and components via CDN
 - **Bootstrap Icons**: Professional iconography
 
-## 📦 Bootstrap Components Used
+## Bootstrap Components Used
 
 1. **Navbar** - Fixed navigation with brand and responsive toggle
 2. **Cards** - Used throughout for Skills, Education, and Projects sections
@@ -37,7 +37,7 @@ A single-page dynamic resume built with vanilla JavaScript and Bootstrap 5, feat
 5. **Buttons** - Contact section with hover effects
 6. **Grid System** - Responsive layout throughout all sections
 
-## 🏃‍♂️ How to Run Locally
+## How to Run Locally
 
 ### Option 1: Direct File Opening
 1. Clone or download this repository
@@ -69,7 +69,7 @@ A single-page dynamic resume built with vanilla JavaScript and Bootstrap 5, feat
 ### Option 3: Live Server Extension
 If using VS Code, install the "Live Server" extension and right-click on `index.html` to select "Open with Live Server"
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 cv/
@@ -84,7 +84,7 @@ cv/
 │   └── resume.json       # Resume data structure (JSON format)
 ```
 
-## 💡 Data Structure
+## Data Structure
 
 The resume data is stored in `data/resume.json` with the following structure:
 - **Header**: Name, title, profile image, contact information
@@ -96,7 +96,7 @@ The resume data is stored in `data/resume.json` with the following structure:
 
 The JavaScript application (`js/app.js`) dynamically loads this JSON data and renders the complete resume.
 
-## 🎨 Customization
+## Customization
 
 ### Updating Resume Content
 Edit the `data/resume.json` file to update:
@@ -113,19 +113,7 @@ Modify `css/styles.css` to customize:
 - Component-specific styling
 - Responsive breakpoints
 
-## 🔧 Features Implemented
-
-✅ **Data-driven rendering** - All content generated via JS  
-✅ **Bootstrap grid system** - Responsive layout  
-✅ **2+ Bootstrap components** - Navbar, Cards, Accordion, Badges, Buttons  
-✅ **Lab feature integration** - Accordion for experience section  
-✅ **Smooth scrolling** - Navigation links  
-✅ **Accessibility** - Semantic HTML, ARIA attributes  
-✅ **Vanilla JS only** - No frameworks or libraries (except Bootstrap)  
-✅ **No page reloads** - Single-page application  
-✅ **Mobile responsive** - Works on all device sizes  
-
-## 🌐 Deployment Options
+## Deployment Options
 
 ### GitHub Pages
 1. Push to GitHub repository
@@ -150,14 +138,4 @@ Modify `css/styles.css` to customize:
 - Edge
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 👨‍💻 Developer Notes
 
-- **No build process required**: This is a static site that runs directly in browsers
-- **CDN dependencies**: Bootstrap and Bootstrap Icons loaded via CDN
-- **Vanilla JavaScript**: Uses modern ES6+ features (arrow functions, template literals, classes)
-- **Progressive enhancement**: Works even if JavaScript is disabled (basic structure remains)
-
----
-
-
-**Built with ❤️ using Vanilla JavaScript and Bootstrap 5**
